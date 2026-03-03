@@ -1,7 +1,7 @@
 # 📦 Vendor Invoice Intelligence System
 
 ### Freight Cost Prediction & Invoice Risk Flagging
-
+🔗 **Live Demo:** https://freight-cost-invoice.streamlit.app/  
 ---
 
 ## 📌 Table of Contents
@@ -144,8 +144,11 @@ Hyperparameter tuning is performed using **GridSearchCV** with **F1-score** to h
 A **Streamlit web application** demonstrates the complete ML pipeline:
 
 ✔ Input invoice details
+
 ✔ Predict expected freight cost
+
 ✔ Flag invoices in real time
+
 ✔ Provide human-readable approval recommendations
 
 Users can switch between:
@@ -255,6 +258,7 @@ streamlit run app.py
 PL-300 Certified Data Analyst | Machine Learning & Data Enthusiast
 
 📧 Email: [araj9797@gmail.com](mailto:araj9797@gmail.com)
+
 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-raj1234
 
 
