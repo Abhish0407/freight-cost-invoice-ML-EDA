@@ -48,7 +48,8 @@ Predict the expected freight cost for a vendor invoice using quantity, invoice v
 * Freight is a significant component of total landed cost.
 * Poor freight estimation impacts margin analysis and budgeting.
 * Early prediction improves procurement planning and vendor negotiation.
-! [Freight Cost Prediction App] Screenshot 2026-03-02 221500.png
+*
+![Freight Cost Prediction App](Screenshots/regression.png)
 ---
 
 ### 2️⃣ Invoice Risk Flagging (Classification)
@@ -61,7 +62,8 @@ Predict whether a vendor invoice should be flagged for manual approval due to ab
 * Manual invoice review does not scale efficiently.
 * Financial leakage often occurs in large or complex invoices.
 * Early risk detection improves audit efficiency and operational control.
-
+*
+![Invoice Risk Flagging App](Screenshots/classification.png)
 ---
 
 ## 🗄 Data Sources
