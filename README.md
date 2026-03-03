@@ -48,7 +48,7 @@ Predict the expected freight cost for a vendor invoice using quantity, invoice v
 * Freight is a significant component of total landed cost.
 * Poor freight estimation impacts margin analysis and budgeting.
 * Early prediction improves procurement planning and vendor negotiation.
-
+! [Freight Cost Prediction App] Screenshot 2026-03-02 221500.png
 ---
 
 ### 2️⃣ Invoice Risk Flagging (Classification)
